@@ -3,7 +3,7 @@ namespace src.Entities
     public class Knight : Hero
     {
 
-        public Knight(string Name, int Level, string Herotype, int Mp_Now, int Mp_Max, int Hp_Now, int Hp_Max)
+        public  Knight(string Name, int Level, string Herotype, int Mp_Now, int Mp_Max, int Hp_Now, int Hp_Max)
         {
             this.Name = Name;
             this.Level = Level;
@@ -14,7 +14,7 @@ namespace src.Entities
             this.Mp_Now = Mp_Now;
         }
 
-        public  string Attack(){
+        public override string Attack(){
             return this.Name +" Acaba de utilizar sua espada no inimigo ";
         }
 

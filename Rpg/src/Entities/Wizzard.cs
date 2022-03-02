@@ -14,7 +14,7 @@ namespace src.Entities
         }
 
 
-        public string Attack()
+        public  override string Attack()
         {
             if (Herotype.Equals("White Wizard"))
             {
@@ -27,7 +27,7 @@ namespace src.Entities
             }
         }
 
-        public string Attack(int bonus)
+        public  string Attack(int bonus)
         {
 
             if (bonus < 5)

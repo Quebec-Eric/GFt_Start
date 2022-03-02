@@ -2,9 +2,9 @@ namespace src.Entities
 {
     public abstract class Hero
     {
-        protected string Name { get; set; }
+        protected string? Name { get; set; }
         protected int Level { get; set; }
-        protected string Herotype { get; set; }
+        protected string? Herotype { get; set; }
         protected int Hp_Max { get; set; }
 
         protected int Mp_Max { get; set; }
@@ -23,7 +23,7 @@ namespace src.Entities
             this.Hp_Now = Hp_Now;
             this.Mp_Now = Mp_Now;
         }
-        public Hero()
+        public  Hero()
         {
 
         }
@@ -37,7 +37,7 @@ namespace src.Entities
              ;
         }
 
-        public  string Attack()
+        public virtual  string Attack()
         {
             return this.Name + " Acaba de utilizar sua espada no inimigo ";
         }

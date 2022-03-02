@@ -14,7 +14,7 @@ namespace src.Entities
             this.Mp_Now = Mp_Now;
         }
 
-         public  string Attack(){
+         public override string Attack(){
             return this.Name +" Acaba  de pegar seu inimigo de surpresa e consegue machuca-lo";
         }
 
