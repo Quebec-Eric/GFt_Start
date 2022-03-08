@@ -1,0 +1,15 @@
+E:\faculdade\boot\GFt_Start\Series\bin\Debug\net6.0\Series.exe
+E:\faculdade\boot\GFt_Start\Series\bin\Debug\net6.0\Series.deps.json
+E:\faculdade\boot\GFt_Start\Series\bin\Debug\net6.0\Series.runtimeconfig.json
+E:\faculdade\boot\GFt_Start\Series\bin\Debug\net6.0\Series.dll
+E:\faculdade\boot\GFt_Start\Series\bin\Debug\net6.0\Series.pdb
+E:\faculdade\boot\GFt_Start\Series\obj\Debug\net6.0\Series.csproj.AssemblyReference.cache
+E:\faculdade\boot\GFt_Start\Series\obj\Debug\net6.0\Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\faculdade\boot\GFt_Start\Series\obj\Debug\net6.0\Series.AssemblyInfoInputs.cache
+E:\faculdade\boot\GFt_Start\Series\obj\Debug\net6.0\Series.AssemblyInfo.cs
+E:\faculdade\boot\GFt_Start\Series\obj\Debug\net6.0\Series.csproj.CoreCompileInputs.cache
+E:\faculdade\boot\GFt_Start\Series\obj\Debug\net6.0\Series.dll
+E:\faculdade\boot\GFt_Start\Series\obj\Debug\net6.0\refint\Series.dll
+E:\faculdade\boot\GFt_Start\Series\obj\Debug\net6.0\Series.pdb
+E:\faculdade\boot\GFt_Start\Series\obj\Debug\net6.0\Series.genruntimeconfig.cache
+E:\faculdade\boot\GFt_Start\Series\obj\Debug\net6.0\ref\Series.dll

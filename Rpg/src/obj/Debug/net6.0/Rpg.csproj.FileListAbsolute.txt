@@ -1,0 +1,15 @@
+E:\faculdade\boot\GFt_Start\Rpg\src\bin\Debug\net6.0\Rpg.exe
+E:\faculdade\boot\GFt_Start\Rpg\src\bin\Debug\net6.0\Rpg.deps.json
+E:\faculdade\boot\GFt_Start\Rpg\src\bin\Debug\net6.0\Rpg.runtimeconfig.json
+E:\faculdade\boot\GFt_Start\Rpg\src\bin\Debug\net6.0\Rpg.dll
+E:\faculdade\boot\GFt_Start\Rpg\src\bin\Debug\net6.0\Rpg.pdb
+E:\faculdade\boot\GFt_Start\Rpg\src\obj\Debug\net6.0\Rpg.csproj.AssemblyReference.cache
+E:\faculdade\boot\GFt_Start\Rpg\src\obj\Debug\net6.0\Rpg.GeneratedMSBuildEditorConfig.editorconfig
+E:\faculdade\boot\GFt_Start\Rpg\src\obj\Debug\net6.0\Rpg.AssemblyInfoInputs.cache
+E:\faculdade\boot\GFt_Start\Rpg\src\obj\Debug\net6.0\Rpg.AssemblyInfo.cs
+E:\faculdade\boot\GFt_Start\Rpg\src\obj\Debug\net6.0\Rpg.csproj.CoreCompileInputs.cache
+E:\faculdade\boot\GFt_Start\Rpg\src\obj\Debug\net6.0\Rpg.dll
+E:\faculdade\boot\GFt_Start\Rpg\src\obj\Debug\net6.0\refint\Rpg.dll
+E:\faculdade\boot\GFt_Start\Rpg\src\obj\Debug\net6.0\Rpg.pdb
+E:\faculdade\boot\GFt_Start\Rpg\src\obj\Debug\net6.0\Rpg.genruntimeconfig.cache
+E:\faculdade\boot\GFt_Start\Rpg\src\obj\Debug\net6.0\ref\Rpg.dll

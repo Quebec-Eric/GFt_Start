@@ -16,6 +16,7 @@ namespace src.Entities
 
         public  override string Attack()
         {
+            base.Attack();
             if (Herotype.Equals("White Wizard"))
             {
 
